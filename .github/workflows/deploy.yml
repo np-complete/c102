@@ -10,5 +10,5 @@ jobs:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
-      - uses: np-complete/publish-book-action@v2
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+      - uses: np-complete/publish-book-action@413aac504a9776125c5f6fb531a3dd9cb29c51f9 # v2
