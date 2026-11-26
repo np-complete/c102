@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "textlint": "16.1.2",
+    "textlint": "16.1.3",
     "textlint-rule-no-todo": "2.0.1",
     "textlint-rule-preset-ja-technical-writing": "12.1.0",
     "textlint-rule-prh": "6.1.1"
